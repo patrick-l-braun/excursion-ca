@@ -1,6 +1,8 @@
 # Excursion Code Academy Project
 
-Simple landing page using 
+Simple landing page:
+
+Using:
 - HTML
 - CSS
 
